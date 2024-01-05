@@ -9,7 +9,7 @@ For further directions, please check out the directions given below.
 
 React.js, HTML, CSS and Postman API.
 
-### How to Initiate?
+## How to Initiate?
 
 In the project directory, you can run:
 
