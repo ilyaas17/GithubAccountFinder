@@ -1,9 +1,13 @@
-GitHub Account Finder Assignment by Utkarsh Mishra.
+GitHub Account Finder Assignment by Utkarsh Mishra. #FunctionupAssignment
 
 ## Project Discription 
 
 The project is linked to a Github RestAPI, which provides crucial information towards the success of this project. It provides names & link to any GitHub Repository that you query.
 For more, please check out the directions given below.
+
+## Used Technologies
+
+React.js, HTML, CSS and Postman API.
 
 ## FSTProject2
 
@@ -47,24 +51,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Learn More About React
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-## 
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
