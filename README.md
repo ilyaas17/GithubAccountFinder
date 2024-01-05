@@ -3,15 +3,13 @@ GitHub Account Finder Assignment by Utkarsh Mishra. #FunctionupAssignment
 ## Project Discription 
 
 The project is linked to a Github RestAPI, which provides crucial information towards the success of this project. It provides names & link to any GitHub Repository that you query.
-For more, please check out the directions given below.
+For further directions, please check out the directions given below.
 
 ## Used Technologies
 
 React.js, HTML, CSS and Postman API.
 
-## FSTProject2
-
-## How to Initiate?
+### How to Initiate?
 
 In the project directory, you can run:
 
