@@ -5,7 +5,7 @@ GitHub Account Finder Assignment by Utkarsh Mishra.
 The project is linked to a Github RestAPI, which provides crucial information towards the success of this project. It provides names & link to any GitHub Repository that you query.
 For more, please check out the directions given below.
 
-## FSTProject
+## FSTProject2
 
 ## How to Initiate?
 
@@ -44,19 +44,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Learn More About React
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+## 
 
 ### Making a Progressive Web App
 
