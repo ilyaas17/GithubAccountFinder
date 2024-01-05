@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+GitHub Account Finder Assignment by Utkarsh Mishra.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Discription 
 
-## Available Scripts
+The project is linked to a Github RestAPI, which provides crucial information towards the success of this project. It provides names & link to any GitHub Repository that you query.
+For more, please check out the directions given below.
+
+## FSTProject
+
+## How to Initiate?
 
 In the project directory, you can run:
 
