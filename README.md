@@ -1,55 +1,77 @@
-GitHub Account Finder Assignment by Utkarsh Mishra. #FunctionupAssignment
+# GitHub Account Finder
 
-## Project Discription 
+## Assignment by Utkarsh Mishra - #FunctionupAssignment
 
-The project is linked to a Github RestAPI, which provides crucial information towards the success of this project. It provides names & link to any GitHub Repository that you query.
-For further directions, please check out the directions given below.
+### Project Description
 
-## Used Technologies
+The GitHub Account Finder project is linked to the GitHub RestAPI, providing essential information for the success of the application. It retrieves names and links to any GitHub repository that you query. To get started, follow the instructions below.
 
-React.js, HTML, CSS and Postman API.
+### Used Technologies
 
-## How to Initiate?
+- React.js
+- HTML
+- CSS
+- Postman API
 
-In the project directory, you can run:
+### How to Initiate?
 
-### `npm start`
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/github-account-finder.git
+   ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Change into the project directory.
+   ```bash
+   cd github-account-finder
+   ```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Install dependencies using npm.
+   ```bash
+   npm install
+   ```
 
-### `npm test`
+4. Start the application in development mode.
+   ```bash
+   npm start
+   ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-### `npm run build`
+6. The page will automatically reload when you make changes, and any lint errors will be displayed in the console.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Running Tests
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run tests, use the following command:
+```bash
+npm test
+```
+This launches the test runner in interactive watch mode. Refer to the test section for more information.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Building for Production
 
-### `npm run eject`
+To build the app for production, use:
+```bash
+npm run build
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This command bundles React in production mode, optimizes the build for performance, and generates a build folder. The build is minified, and filenames include hashes.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Your app is now ready to be deployed.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Refer to the deployment section for more information.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Ejecting
 
-## Learn More About React
+Note: Ejecting is a one-way operation. Once you eject, you can't go back.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you're dissatisfied with the build tool and configuration choices, you can eject at any time. This removes the single build dependency from your project and copies all configuration files and transitive dependencies (webpack, Babel, ESLint, etc.) into your project, giving you full control.
 
-### `npm run build` fails to minify
+All commands except eject will still work, but they will point to the copied scripts. You're now on your own.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Remember, ejecting is optional. The curated feature set is suitable for small to middle deployments, and you're not obligated to use this feature. However, the option is available when you're ready for customization.
+
+### Learn More About React
+
+To learn more about React, check out the [React documentation](https://reactjs.org/docs/getting-started.html).
+
+Enjoy using GitHub Account Finder! If you have any questions or feedback, feel free to reach out.
